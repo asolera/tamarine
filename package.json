@@ -1,0 +1,23 @@
+{
+  "name": "tamarine",
+  "version": "1.0.0",
+  "description": "A simple node logger library",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asolera/tamarine.git"
+  },
+  "keywords": [
+    "logger",
+    "node",
+    "javascript",
+    "log",
+    "library"
+  ],
+  "author": "Andrew Solera <andrewsolera@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asolera/tamarine/issues"
+  },
+  "homepage": "https://github.com/asolera/tamarine#readme"
+}
